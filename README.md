@@ -34,4 +34,4 @@
     
     
 前端仓库地址：
-    git@github.com:15648933053/PMSApplet.git
+    https://github.com/15648933053/PMSApplet
